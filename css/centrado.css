@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+
+#hola {
+    width: 30%;
+    background-color: rgb(110, 110, 110);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#hola h2 {
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+#hola p {
+    font-size: 18px;
+}
